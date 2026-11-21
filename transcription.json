@@ -2,14 +2,14 @@
   "metadata": {
     "work_key": "trove24100097",
     "title": "兇入癲院",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "language": "lzh",
     "shelfmark": "Tung Wah News, 1901-07-03, p. 2, NLA news-page24100097",
     "reading_order": "source columns, ordered as printed",
     "title_policy": "Stand-alone headings in extras, inline ones in their original column",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "兇入癲院（《東華新報》1901-07-03 第2版，澳洲國家圖書館） / Xiong ru dian yuan [A Court-Ordered Admission to an Asylum]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -32,7 +32,7 @@
               "text": "擲傷其頭當經拘兇審訊已誌前報今將該犯押入公堂審判其"
             },
             {
-              "text": "事仍作其喪失常性乃發入癲人院監禁以戒厥辜"
+              "text": "事仍作其喪失常性乃發入癲人院監禁以蔽厥辜"
             }
           ],
           "extras": []

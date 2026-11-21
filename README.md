@@ -4,11 +4,11 @@
 
 Xiong ru dian yuan [A Court-Ordered Admission to an Asylum] appeared in Tung Wah News (1901-07-03). Following an earlier notice, the article reports the court hearing after the assault on the German emperor and the accused's confinement in an asylum after being deemed of unsound mind. The transcription retains the contemporary legal and psychiatric wording.
 
-## V0.1.0
+## V0.2.0
 
-完整收錄第2版此篇原題與正文 4 個原欄，全文格式為 TXT、JSON 與 TEI XML。此版固定 AI 輔助初錄，標明未定讀法。尚未經人類全文雙校。
+完整收錄第2版此篇原題與正文 4 個原欄，全文格式為 TXT、JSON 與 TEI XML。比對獨立原圖讀法後回圖裁定，採用 1 筆訂正，留存疑讀定位。
 
-TXT, JSON and TEI XML cover the complete separately headed article, comprising the heading and 4 source columns on page 2. This edition preserves the first AI-assisted transcription and marks uncertainties. It has not been double proofread by human readers.
+TXT, JSON and TEI XML cover the complete separately headed article, comprising the heading and 4 source columns on page 2. An independent image reading was compared with the first transcription. Source-image adjudication adopted 1 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 
