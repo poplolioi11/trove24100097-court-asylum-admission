@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite this version and the source copy.
+title: '兇入癲院（《東華新報》1901-07-03 第2版，澳洲國家圖書館） / Xiong ru dian yuan [A Court-Ordered Admission
+  to an Asylum]: Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/trove24100097-court-asylum-admission
+keywords:
+- 東華新報
+- 兇入癲院
+- 精神醫學史
+- 澳洲華文報刊
+- 司法收治
+- Tung Wah News
+- history of psychiatry
+- Chinese Australian newspapers
+- Trove
+- TEI

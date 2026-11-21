@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "work_key": "trove24100097",
+    "title": "兇入癲院",
+    "edition": "0.1.0",
+    "language": "lzh",
+    "shelfmark": "Tung Wah News, 1901-07-03, p. 2, NLA news-page24100097",
+    "reading_order": "source columns, ordered as printed",
+    "title_policy": "Stand-alone headings in extras, inline ones in their original column",
+    "version": "0.1.0",
+    "dataset_title": "兇入癲院（《東華新報》1901-07-03 第2版，澳洲國家圖書館） / Xiong ru dian yuan [A Court-Ordered Admission to an Asylum]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "○兇入癲"
+            },
+            {
+              "text": "院　前西三月六號德皇在該國之邊連埠被一癲人愛倫執鐵"
+            },
+            {
+              "text": "擲傷其頭當經拘兇審訊已誌前報今將該犯押入公堂審判其"
+            },
+            {
+              "text": "事仍作其喪失常性乃發入癲人院監禁以戒厥辜"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": 2,
+          "context": "邊連埠",
+          "candidates": [
+            "邊連埠"
+          ],
+          "note": "保留報紙的地名譯字。"
+        },
+        {
+          "side": "single",
+          "column": 4,
+          "context": "仍作",
+          "candidates": [
+            "仍作"
+          ],
+          "note": "依字面照錄，未按語義添補。"
+        }
+      ],
+      "observations": "題頭橫跨兩個直欄，第一欄尾見「兇入癲」，次欄首為「院」，以下同欄接正文。記前報僅為原文交代，這一條有獨立題首與首尾。",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24100097",
+      "catalogue_page": 2,
+      "image_url": "https://trove.nla.gov.au/ndp/imageservice/nla.news-page24100097/level5",
+      "sha256": "9b28100571010ab0302937b3b5c672e552e9fe12a257d576d8f191ec1e7c1e69",
+      "label": "1901-07-03 第2版",
+      "dimensions": [
+        3010,
+        3960
+      ],
+      "article_extent": [
+        1000,
+        1900,
+        1217,
+        2740
+      ],
+      "article_regions": [
+        [
+          1000,
+          1900,
+          1217,
+          2740
+        ]
+      ],
+      "content_role": "complete-article",
+      "state": "transcribed"
+    }
+  ]
+}
